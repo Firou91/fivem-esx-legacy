@@ -1,4 +1,4 @@
-# ESX Legacy 1.9.3 (Latest)
+# ESX Legacy 1.10.1 (Latest)
 
 
 ## Local :
@@ -22,8 +22,14 @@
 - `Download ZIP` ;
 - Extract all folders ;
 - Drop all files on your server folder ;
-- Configure your *server.cfg*.
+- Configure your *.cfg* files.
 ### 2 - SQL
 - Go to `PhpMyAdmin` or `HeidiSQL` ;
 - Select `Import` ;
-- Choose the *fESX.sql* file & click `Import`.
+- Choose the *fLegacy.sql* file & click `Import`.
+
+## Add-on resources :
+
+- Ox inventory : https://github.com/overextended/ox_inventory/releases/tag/v2.31.3
+- Ox target : https://github.com/overextended/ox_target/releases/tag/v1.11.0
+- Wasabi backpack : https://github.com/wasabirobby/wasabi_backpack/releases/tag/1.0.4
